@@ -1,7 +1,7 @@
 # Monitor.sh
 
 ###### this script will create a standalone http servers listening on port 8000(any given) 
-###### simply call this url like http://127.0.0.1:8000/
+###### simply call this url like http://127.0.0.1:8000/status.json
 ###### this will give Monitoring output in JSON format
 
 **Ex:**
